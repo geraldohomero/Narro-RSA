@@ -6,6 +6,8 @@ Selecione texto no Okular, copie com `Ctrl+C`, e use um atalho de teclado para a
 
 ![Player TTS](https://img.shields.io/badge/GTK3-Player-blue?style=for-the-badge)
 
+<img width="577" height="394" alt="image" src="https://github.com/user-attachments/assets/945cad6f-56f3-411e-9e39-412c4602af74" />
+
 ## ✨ Funcionalidades
 
 - ▶️ **Play / ⏸ Pause / ⏹ Stop** — Controles completos de reprodução
