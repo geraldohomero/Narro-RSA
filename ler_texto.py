@@ -690,6 +690,10 @@ def main():
     win = TTSPlayerWindow(initial_text=text)
     win.show_all()
 
+    # Auto-play: se há texto, inicia a leitura automaticamente ao abrir
+    if text:
+        GLib.idle_add(win.on_play, None)
+
     # Limpa lockfile ao sair
     def handle_signal(sig, frame):
         cleanup()
