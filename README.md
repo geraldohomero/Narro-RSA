@@ -1,4 +1,4 @@
-# edge-tts-okular
+# Narro RSA
 
 Leitor de texto em voz alta com **edge-tts** para o Okular no GNOME/Wayland (Fedora).
 
